@@ -1,7 +1,7 @@
 # Projeto-One-Piece
 
 <p align="center">
- <img width="100" src="./src/imagens/personagem-luffy.png">
+ <img width="300" src="./src/imagens/personagem-luffy.png">
 </p>
 
 ## Description
