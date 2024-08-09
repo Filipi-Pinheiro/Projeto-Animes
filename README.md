@@ -10,7 +10,7 @@
 
  - Enhancing "Mobile First" skills.
  - Making codes more optimized.
- - Improving problem-solving techniques.
+ - improving problem-solving techniques.
 
 
 
