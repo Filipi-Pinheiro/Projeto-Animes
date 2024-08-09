@@ -1,5 +1,9 @@
 # Projeto-One-Piece
 
+<p align="center">
+ <img width="200" src="./src/imagens/tripulacao-luffy.png">
+</p>
+
 ## Description
 
  Explore the origins of each of the protagonists of 'One Piece' and discover how they joined the Straw Hat crew. Click on each character's symbols to see their stories and learn more about.
@@ -9,6 +13,7 @@
 ## What did i learn? 
 
  - Enhancing "Mobile First" skills.
+ - Responsive on mobile and larger screens.
  - Making codes more optimized.
  - improving problem-solving techniques.
 
