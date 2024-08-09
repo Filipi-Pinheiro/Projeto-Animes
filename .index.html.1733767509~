@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Projeto One Piece</title>
+  <link href="src/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <main class="personagens">
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-monkey-d-luffy.png" alt="Monkey d luffy"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Munkey D Luffy</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer.
+        </p>
+        
+      </div>
+    </div>
+
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-monkey-d-luffy.png" alt="Monkey d luffy"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Munkey D Luffy</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer.
+        </p>
+        
+      </div>
+    </div>
+
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-chopper.png" alt="Personagem Chopper"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Chopper</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer.
+        </p>
+        
+      </div>
+    </div>  <!--Chopper-->
+
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-nami.png" alt="Personagem Nami"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Nami</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer
+        </p>
+        
+      </div>
+    </div> <!--nami-->
+
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-monkey-d-luffy.png" alt="Monkey d luffy"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Munkey D Luffy</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer.
+        </p>
+        
+      </div>
+    </div> <!--Luffy-->
+
+    <div class="personagem">
+      <img class="image" src="./src/imagens/personagem-monkey-d-luffy.png" alt="Monkey d luffy"/>
+      <div class="content">
+        <i class="logo"></i>
+        <h2 class="name_person">Munkey D Luffy</h2>
+        <p class="descricao">
+           esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer esse é um texto qualquer.
+        </p>
+        
+      </div>
+    </div>
+
+  </main>
+  <ul>
+    
+  </ul>
+  <script src="src/js/script.js"></script>
+</body>
+
+</html>
