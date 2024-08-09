@@ -1,7 +1,7 @@
 # Projeto-One-Piece
 
 <p align="center">
- <img width="200" src="./src/imagens/tripulacao-luffy.png">
+ <img width="100" src="./src/imagens/tripulacao-luffy.png">
 </p>
 
 ## Description
