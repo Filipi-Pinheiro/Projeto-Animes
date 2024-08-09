@@ -12,7 +12,7 @@ main::after{
   content: '';
   width: 100vw;
   min-height: 100vh;
-  background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.0));
+  background-image: linear-gradient(to top, rgba(0,0,0,0.8) 50%, rgba(0,0,0,0.0));
   position: fixed;
   top: 0;
   left: 0;
@@ -59,6 +59,7 @@ main .personagem > img {
 }
 
 ul{
+  z-index: 2;
   width: 100%;
   position: absolute;
   bottom: 0;
