@@ -1,7 +1,7 @@
 # Projeto-Animes
 
 <p align="center">
- <img width="300" src="./src/imagens/blue-lock/wallpaper.jpg">
+ <img width="320" src="./src/imagens/blue-lock/wallpaper.jpg">
 </p>
 
 ## Description
