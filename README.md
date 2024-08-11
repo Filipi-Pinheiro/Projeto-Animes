@@ -42,6 +42,10 @@ To access the website, click on the link below! <br>
 #
 
 <p align="center">
+ <img width="320" src="./src/imagens/one-piece/wallpaper.jpg">
+</p>
+
+<p align="center">
  <a href="https://filipi-pinheiro.github.io/Projeto-Animes/src/pages/one-piece.html">
   <img width="200" src="./src/imagens/one-piece/logo.png">
  </a>
