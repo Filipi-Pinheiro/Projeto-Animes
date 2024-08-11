@@ -39,7 +39,15 @@
 To access the website, click on the link below! <br>
 <a href="https://filipi-pinheiro.github.io/Projeto-Animes/" target="_blank">Access to website</a>
 
+#
 
+<p align="center">
+ <a href="https://filipi-pinheiro.github.io/Projeto-Animes/src/pages/blue-lock.html">
+  <img width="320" src="./src/imagens/blue-lock/wallpaper.jpg">
+ </a>
+</p>
+
+  click on the anime logo, and watch the magic happen!
 
 
 
