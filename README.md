@@ -6,7 +6,7 @@
 
 ## Description
 
- Explore the origins of each of the protagonists of 'One Piece' and discover how they joined the Straw Hat crew. Click on each character's symbols to see their stories and learn more about.
+ This project features an interactive interface where anime fans can explore the origins of the protagonists of their favorite series. Through buttons on the interface, you can click and discover
 
 #
 
