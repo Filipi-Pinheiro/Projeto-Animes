@@ -43,7 +43,7 @@ To access the website, click on the link below! <br>
 
 <p align="center">
  <a href="https://filipi-pinheiro.github.io/Projeto-Animes/src/pages/blue-lock.html">
-  <img width="320" src="./src/imagens/blue-lock/wallpaper.jpg">
+  <img width="320" src="./src/imagens/blue-lock/logo.png">
  </a>
 </p>
 
