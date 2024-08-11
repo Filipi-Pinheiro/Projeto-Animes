@@ -1,4 +1,4 @@
-# Projeto-One-Piece
+# Projeto-Animes
 
 <p align="center">
  <img width="300" src="./src/imagens/personagem-luffy.png">
