@@ -6,7 +6,7 @@
 
 ## Description
 
- This project features an interactive interface where anime fans can explore the origins of the protagonists of their favorite series. Through buttons on the interface, you can click and discover the story of each main character, better understanding their motivations and past. It's a fun and easy way to dive into the universe of each anime and get to know the characters in more depth.
+ This project features an interactive interface where anime fans can explore the origins of the protagonists of their favorite series. Through buttons on the interface, you can click and discover the story of each main character, better understanding their motivations and past. It's a fun and easy way to dive into the universe of each anime and get to know the characters you love so much. 
 
 #
 
