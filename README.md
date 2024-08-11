@@ -1,7 +1,7 @@
 # Projeto-Animes
 
 <p align="center">
- <img width="300" src="./src/imagens/personagem-luffy.png">
+ <img width="300" src="./src/imagens/blue-lock/wallpaper.jpg">
 </p>
 
 ## Description
