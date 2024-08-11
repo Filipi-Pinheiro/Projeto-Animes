@@ -1,0 +1,13 @@
+.logo{
+  background: url("../imagens/blue-lock/logo.png") center center;
+  background-size: cover;
+  width: 150px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+.name_person{
+  font-family: "Oswald", sans-serif;
+  font-size: 2.2em;
+  font-weight: 700;
+  margin-bottom: 20px;
+}

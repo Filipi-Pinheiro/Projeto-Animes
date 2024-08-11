@@ -1,0 +1,13 @@
+.logo{
+  background-image: url("../imagens/one-piece/logo.png");
+  background-size: cover;
+  width: 100px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+.name_person{
+  font-family: "Secular One", sans-serif;
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
