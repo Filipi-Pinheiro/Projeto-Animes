@@ -42,7 +42,7 @@ To access the website, click on the link below! <br>
 #
 
 <p align="center">
- <img width="320" src="./src/imagens/one-piece/wallpaper.jpg">
+ <img width="320" src="./src/imagens/one-piece/luffy.png">
 </p>
 
 <p align="center">
